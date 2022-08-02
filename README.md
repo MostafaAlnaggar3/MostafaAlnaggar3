@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mostafa Alnaaggar</h1>
-<h4 align="center">A DevOps engineer graduated from Information Technology Institute (ITI)</h4>
+<h4 align="center">Detail-oriented, highly-organized, and self-motivated DevOps Engineer graduated from Information Technology Institute (ITI)</h4>
 
 <br />
 
